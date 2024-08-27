@@ -1,17 +1,28 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Eljohn Agojo",
+  name: "Ishan Suhail",
   jobDescription: "Web Developer",
-  about: `I am an aspiring software engineer from Boston, Massachusetts. For the past 1-2 years, I've been making the web a more interesting place with my front-end wizardry. I'm fluent in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, StyledComponents, React JS, and Next JS—basically, if it’s web-related, I’ve probably dabbled in it.
-One of my favorite projects was recreating the classic "Sokoban" game using the SFML library and C++. I added some cool sound effects and visuals, and used vectors to keep everything running smoothly. And yes, I tested the heck out of it with the Boost framework.
-I'm also pretty pumped about KyMo, a full-stack web app aimed at building communities and managing organizations. It’s got team creation, user profiles, event scheduling, and real-time updates thanks to Firebase. Built with React and Tailwind CSS, it looks as good as it performs.
-When I'm not coding, you'll find me powerlifting, playing video games, or shooting hoops. I’m driven by the omnipresence of tech and my desire to make it better. Right now, I’m diving into Machine Learning and Next.js, keeping up with the latest trends via Computer Science TikToks—yes, they’re actually quite informative!
-I’m always learning, always exploring, and always up for a new challenge. Let’s make something awesome together!
+  about: `I'm a senior at Rensselaer Polytechnic Institute, pursuing a degree in Computer Science with a strong passion for building innovative web applications and developing AI-driven projects. 
+  Over the past two years, I've gained valuable industry experience, honing my skills in a wide range of technologies, including Python (Django, Streamlit), C, C++, Java, JavaScript/TypeScript (Angular, React), HTML/CSS, Tailwind, Firebase, PostgreSQL, Azure and Git.
+  Originally from the Greater Boston area, I'm always eager to expand my knowledge and tackle new challenges, whether through academic pursuits or personal projects. I thrive on the excitement of learning new things and am constantly seeking opportunities to grow as a developer. 
 
 
   `,
 
   experience: [
+    {
+      name: "TalkTrain  |  Co-Founder/Software Developer",
+      location: "Remote",
+      startDate: "February 2024",
+      endDate: "Present",
+      description: [
+        "- Co-Founder of a Saas Platform aimed and making the employee training experience more personalizable and interactive using Speech to Speech AI, Can save companies 1000+ dollars a month in employee training ",
+        "- Leveraged the Speech to Speech AI using OpenAI's gpt-4o mini, Created the application using Django, HTML/CSS, React, PostgreSQL. Made it customizable for any use case with Django Admin",
+        "- improved skills in communction and Team-work",
+        "- Making a POC for Etihad Airlines",
+      ],
+    },
+    
     {
       name: "StarterKitz  |  Freelance Developer",
       location: "Remote",
@@ -22,7 +33,19 @@ I’m always learning, always exploring, and always up for a new challenge. Let�
         "- Created an admin panel for secure content management, utilizing Firebase custom claims for user role management.",
       ],
     },
-
+    {
+      name: "Meriton  |  AI Software Developer",
+      location: "Irving, TX",
+      startDate: "May 2024",
+      endDate: "August 2024",
+      description: [
+        "- Developed a Full-Stack Application using Python's Streamlit.",
+        "- Made a RAG tool to answer any question regarding the companies' manufacturing partners 500+ page documents",
+        "- Collaborated with Cyber team to ensure we are creating a secure application using Azure Resources and AzureDevops",
+        "- Application automates how compnay creates a Bid Sheet, and Pricing worksheet using Data Mapping, OCR, and OpenAI gpt-4 ",
+        "- Application saves company 7000+ hours a year "
+      ],
+    },
     {
       name: "Cognizant   |  Generative AI externship",
       location: "Remote",
@@ -33,23 +56,13 @@ I’m always learning, always exploring, and always up for a new challenge. Let�
       ],
     },
 
-    {
-      name: "Wayfair  |  IT Engineer(Co-op)",
-      location: "Boston, MA",
-      startDate: "Jan 2024",
-      endDate: "June 2024",
-      description: [
-        "- Developed a AI-powered Slack support bot, which leverages the Slack Bolt framework and OpenAI’s GPT-4 turbo model to interpret and respond to tech queries within Wayfair, enhancing support efficiency and user experience.",
-        "- Created a PowerShell script that leverages PSGSuite, a module associated to Google’s .NET SDK, to mass deprovision Chrome devices.",
-        "- Collaborated closely with a team to utilize the Zoom API to gather user information and optimize accessibility to Zoom licenses given to users. ",
-      ],
-    },
+    
   ],
 
   education: [
     {
-      name: "University of Massachusetts Lowell",
-      location: "Lowell, Massachusetts",
+      name: "Rensselaer Polytechnic Institute",
+      location: "Troy, New York",
       startDate: "2021",
       endDate: "2025",
       description: [
