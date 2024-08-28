@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://ishan-portfolio-production.up.railway.app/",
   name: "Ishan Suhail",
   jobDescription: "Web Developer",
   about: `I'm a senior at Rensselaer Polytechnic Institute, pursuing a degree in Computer Science with a strong passion for building innovative web applications and developing AI-driven projects. 
