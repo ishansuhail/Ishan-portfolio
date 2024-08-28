@@ -16,7 +16,7 @@ export const info = {
       startDate: "February 2024",
       endDate: "Present",
       description: [
-        "- Co-Founder of a Saas Platform aimed and making the employee training experience more personalizable and interactive using Speech to Speech AI, Can save companies 1000+ dollars a month in employee training ",
+        "- Co-Founder of a AI Saas Platform aimed and making the employee training experience more personalizable and interactive using Speech to Speech AI, Can save companies 1000+ dollars a month in employee training ",
         "- Leveraged the Speech to Speech AI using OpenAI's gpt-4o mini, Created the application using Django, HTML/CSS, React, PostgreSQL. Made it customizable for any use case with Django Admin",
         "- improved skills in communction and Team-work",
         "- Making a POC for Etihad Airlines",
@@ -72,26 +72,31 @@ export const info = {
   ],
 
   socialMedia: {
-    github: "https://github.com/ejagojo",
-    email: "mailto:agojo.eljohn@gmail.com",
-    linkedin: "https://www.linkedin.com/in/eljohn-agojo",
+    github: "https://github.com/ishansuhail",
+    email: "mailto:ishansuhail28@gmail.com",
+    linkedin: "https://www.linkedin.com/in/ishan-suhail-9562b5196/",
   },
 
   projects: [
     {
-      title: "KyMo",
+      title: "Gmail AI Assistant",
       isFeatured: true,
-      thumbnail: "/assets/images/kymo-image.png"
+      thumbnail: "/assets/images/portfolio-gmail.png"
     },
     {
-      title: "Sokoban",
+      title: "SwipeSaver",
       isFeatured: true,
-      thumbnail: "/assets/images/sokoban-image.png"
+      thumbnail: "/assets/images/location.png"
     },
     {
-      title: "Discord Powerlifting Bot",
+      title: "WeatherApp",
       isFeatured: true,
-      thumbnail: "/assets/images/discord-logo.jpg"
+      thumbnail: "/assets/images/portfolio-weather.png"
+    },
+    {
+      title: "CaloQuest",
+      isFeatured: true,
+      thumbnail: "/assets/images/portfolio-CaloQuest.png"
     },
   ],
 };
